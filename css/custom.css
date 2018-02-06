@@ -36,8 +36,23 @@
 }
 /* Hero
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-
+.imuf-text {
+  font-size: 2rem;
+  color: #ff6801;
+  font-family: Sofachrome; 
+  font: Sofachrome; 
+}
+.brand-text {
+  font-family: Sofachrome; 
+  font: Sofachrome; 
+}
+.brand-name {
+  padding: 10px;
+}
+.marketing-text {
+  font-family: Raleway; 
+  font: Raleway; 
+}
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .fc {
